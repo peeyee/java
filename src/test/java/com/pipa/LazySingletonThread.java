@@ -1,6 +1,6 @@
 package com.pipa;
 
-import com.pipa.designpattern.LazySingleton;
+import com.pipa.designpattern.singleton.LazySingleton;
 
 /**
  * purpose:

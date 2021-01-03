@@ -1,7 +1,7 @@
 package com.pipa;
 
 
-import com.pipa.designpattern.HungerySingleton;
+import com.pipa.designpattern.singleton.HungerySingleton;
 
 /**
  * purpose:
