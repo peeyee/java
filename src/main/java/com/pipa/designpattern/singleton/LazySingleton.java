@@ -1,4 +1,4 @@
-package com.pipa.designpattern;
+package com.pipa.designpattern.singleton;
 
 /**
  * purpose:
