@@ -28,7 +28,3 @@ public class LinkStack<T> extends AbstractStack<T> {
     }
 }
 
-class Node<T>
-{
-    Node<T> next;
-}

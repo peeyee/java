@@ -5,7 +5,7 @@ package com.pipa.collection;
  * author: hwf
  * created: 2020/12/25
  */
-public abstract class AbstractStack<T> implements IStack {
+public abstract class AbstractStack<T> implements Stack {
 
     @Override
     public abstract void push(Object o);

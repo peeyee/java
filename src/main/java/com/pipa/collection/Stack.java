@@ -5,7 +5,7 @@ package com.pipa.collection;
  * author: peter
  * created: 2020/12/25
  */
-public interface IStack<T> {
+public interface Stack<T> {
     /*
     * add a element to the top of stack
     *
